@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.env
+.env.local
+.env.*.local
+
+# Qt
+*.pyc
+*.qrc.py
+*.ui.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Configuration
+config.ini
+settings.json
